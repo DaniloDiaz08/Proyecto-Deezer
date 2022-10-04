@@ -1,0 +1,185 @@
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+body{
+    box-sizing: border-box;
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.925);    
+}
+
+h1{
+    font-size: 43px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+/*imagen logo*/
+.img{
+    position: relative;
+    padding: 40px;
+    left: 43.8%;
+    top: 30px;
+}
+
+/*texto logo*/
+.logo{
+    position: absolute;
+    left: 47.5%;
+    top: 63px;
+    font-size: 35px;
+   
+}
+
+/*boton registro*/
+.boton-registro{
+    position:absolute;
+    right: 100px;
+    border: 2px solid #fff;
+    border-radius: 100px;
+    background-color: transparent;
+    
+    
+    padding: 20px 35px;
+    top: 30px;
+    color: #fff;
+    font-size: 18px;
+ 
+}
+
+/*titulo principal*/
+.titulo-prin{
+    margin: 55px;
+    position: relative;
+    text-align: center;
+    font-size: 42px;
+    color: #fff;
+}
+
+.boxwidth{
+    width: 600px;
+}
+/*carta "morada"*/
+.carta-1{
+    text-align: center;
+   
+    padding: 24px 80px 16px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+   
+    max-width: 600px;
+    justify-content: center;
+    background: rgb(115,64,178);
+    background: linear-gradient(90deg, rgba(115,64,178,1) 0%, rgba(130,62,175,1) 35%, rgba(144,59,172,1) 100%);
+    background-color: #bf1ceb;	position: relative;	box-shadow: -80px -80px 200px 0px rgba(255, 0, 0, 0.322), 80px -90px 200px 0px #06ad5769;
+    border: 50% transparent; 
+}
+
+/*botones negros*/
+.boton{
+    
+    background-color:black;
+    color:#fff;
+    padding: 15px;
+    border-radius: 35px;
+    display: inline-block;
+    width: 290px; 
+}
+
+/*hover botones "negros"*/
+.boton:hover{
+    background-color: #fff;
+    color: black;
+}
+
+/*carta "naranja"*/
+.carta-2{
+    text-align: center;
+    
+    padding: 30px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+ 
+    width: 700px;
+    justify-content: center;
+    background: rgb(229,102,25);
+    background: linear-gradient(90deg, rgba(229,102,25,1) 0%, rgba(241,134,35,1) 35%, rgba(251,163,44,1) 100%);
+}
+
+/*subtitulos en cartas*/
+.sub-cartas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+}
+
+/*carta anuncio socio*/
+.carta-socio{
+    width: 700px;
+    text-align: center;
+    background: rgb(41,42,46);
+    background: linear-gradient(0deg, rgba(41,42,46,1) 0%, rgba(58,59,71,1) 100%);
+}
+
+/*carta 3 "azul"*/
+.carta-3{
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 30px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+    position: relative;
+    width: 700px;
+    justify-content: center;
+    background: rgb(105,95,237);
+    background: linear-gradient(90deg, rgba(105,95,237,1) 0%, rgba(70,119,228,1) 50%, rgba(59,180,176,1) 100%);
+}
+
+.info{
+    color: #fff;
+}
+
+/*cartas desplegables*/
+.carta-4{
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 30px;
+    border-radius: 35px 35px 35px 35px;
+    margin: 0% auto;
+    position: relative;
+    width: 700px;
+    justify-content: center;
+    background: rgb(105,95,237);
+    background: linear-gradient(90deg, rgba(105,95,237,1) 0%, rgba(70,119,228,1) 50%, rgba(59,180,176,1) 100%);
+}
+
+
+.Deezer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.boton-1{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 35px;
+    display: inline-block;
+    width: 290px;
+    color: black;
+    font-size: 13px;
+}
+
+.catalogo{
+    
+    text-align: center;
+}
+
+
+
+
+
